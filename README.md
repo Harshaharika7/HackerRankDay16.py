@@ -67,7 +67,9 @@ Complete a function that:
 
 Option 1: With input redirection
 
-    python3 exceptions.py < input.txt
+    python3 exceptions.py < input1.txt
+
+    python3 exceptions.py < input2.txt
 
 Option 2: Manual input
 
