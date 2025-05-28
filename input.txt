@@ -1,2 +1,4 @@
 3
+#Sample Input 1
 za
+#Sample Input 2
