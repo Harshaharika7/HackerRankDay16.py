@@ -87,7 +87,7 @@ HackerRank – Day 16: Exceptions – String to Integer
 
 ## 📅 Completed On:
 
-28th May 2025
+    28th May 2025
 
 ## 🔖 Tags
 
@@ -95,8 +95,8 @@ HackerRank – Day 16: Exceptions – String to Integer
 
 ## ✍ Author
 
-Harsha M  
-
-GitHub:   @Harshaharika7  
-
-LinkedIn: Harsha M
+    Harsha M  
+    
+    GitHub:   @Harshaharika7  
+    
+    LinkedIn: Harsha M
