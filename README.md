@@ -31,19 +31,19 @@ Complete a function that:
 
 ## 🔢 Sample Input
 
-  3
+      3
 
 ## ✅ Sample Output
 
-  3
+      3
 
 ### ❌ Invalid Input Example
 
-  za
+      za
 
 ### ✅ Output
 
-  Bad String
+      Bad String
 
 ## 💡 Explanation
 
